@@ -2,7 +2,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     getVisitCount();
 })
 
-const functionApiURL = 'https://getresumechallenge.azurewebsites.net/api/GetResumeChallenge?code=2Q2Ffg7EM2/zIMKPagLdfi4BEGiRXjFRbQxRMUCxqBTOz6QKqjlDIQ==';
+const functionApiURL = 'https://badmusresumefuction.azurewebsites.net/api/GetResumeChallenge?code=P7cuJ0jDdBuLEi0kWI_uMlwqERTuCXtlUgHMTasMJ-xxAzFuMw6w_w==';
 const localfunctionApi = 'http://localhost:7071/api/GetResumeChallenge';
 
 const getVisitCount = () => {
